@@ -474,6 +474,7 @@ subsubsection/numberformat = \bf\zihao{5}
 \restoregeometry
 }
 \RequirePackage{natbib}%参考文献
+\setcitestyle{super,square,comma,sort&compress}
 \RequirePackage{caption2}
 \captionstyle{normal}
 \renewcommand{\captionfont}{\zihao{5}\rm}
